@@ -6,6 +6,6 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "ToggleSwitch"
+rootProject.name = "CustomSwitch"
 include ':app'
 include ':ToggleSwitch'
