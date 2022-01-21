@@ -3,7 +3,7 @@
 Simple Toggle Button with Beautiful Animation
 
 # Setup SDK
-```json
+```
 repositories {
   google()
   mavenCentral()
@@ -13,6 +13,5 @@ repositories {
 dependencies {
  implementation 'com.github.shafaat73:ToggleSwitch:{latest_version}'
  }
-
 ```
  
