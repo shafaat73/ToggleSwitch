@@ -2,3 +2,13 @@
 # ToggleSwitch
 Simple Toggle Button with Beautiful Animation
 
+# Setup SDK
+ repositories {
+  google()
+  mavenCentral()
+   maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+ implementation 'com.github.shafaat73:ToggleSwitch:{latest_version}'
+ }
