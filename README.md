@@ -7,7 +7,7 @@ Simple Toggle Button with Beautiful Animation
 repositories {
   google()
   mavenCentral()
-   maven { url 'https://jitpack.io' }
+  maven { url 'https://jitpack.io' }
 }
 
 dependencies {
